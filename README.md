@@ -10,6 +10,7 @@ codenvy-contribution-sample
 ===========================
 
 A simple Hello World JAR
+test sun
 
 For contributing to this project, hit the contribute button provided at the top of the README. You'll be ready in a one-click operation
 
