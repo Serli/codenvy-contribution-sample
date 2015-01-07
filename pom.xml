@@ -17,6 +17,7 @@
     </dependencies>
     <build>
         <plugins>
+          <!-- SERLI -->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-jar-plugin</artifactId>
