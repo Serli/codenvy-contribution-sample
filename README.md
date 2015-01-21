@@ -8,6 +8,7 @@
 
 # Codenvy Contribution Sample
 
+testtt
 
 A simple Hello World JAR. This project is a sandbox project for testing the contribution workflow plugin for Codenvy Eclipse Che: https://github.com/codenvy/plugin-contribution
 
@@ -20,6 +21,8 @@ The buttons below are factory URLs generated with Codenvy CLI
 Given that your are testing on a dev instance: http://dev.box.com
 
 - Clone and build the [CLI project](https://github.com/codenvy/cli) in your workspace
+
+qsdfqsdf
 
         git clone git@github.com:codenvy/cli.git
         cd cli
