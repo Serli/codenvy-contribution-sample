@@ -8,6 +8,9 @@
 
 # Codenvy Contribution Sample
 
+te
+
+qsdflmqsdkjfmqlsdkjf
 
 A simple Hello World JAR. This project is a sandbox project for testing the contribution workflow plugin for Codenvy Eclipse Che: https://github.com/codenvy/plugin-contribution
 
